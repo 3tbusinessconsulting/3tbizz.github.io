@@ -1,8 +1,3 @@
-/* My name is Oluwatoyin Ogunwale
-and my student number is 000341345.
-This file was created on Nov 24, 2018.
-My course of study is Business Analysis
-*/
 
 var message = alert("Welcome to ABM (Automated Banking Machine) Program! \nPlease login to perform your banking transactions.");
 
