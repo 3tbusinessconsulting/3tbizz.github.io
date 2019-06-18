@@ -1,7 +1,9 @@
 body {
-	margin: 0;
-	padding: 0;
-	font-family: Century Gothic;
+	margin: 1;
+	padding: 1;
+	font-family: Nirmala UI Semilight;
+    color: darkslategray;
+    font-size: 20px
 }
 header{
 	background-image: url("2.jpg");
@@ -26,7 +28,7 @@ ul li a{
 }
 ul li a:hover{
 	background-colour: #fff;
-	colour: #000;
+	color: #000;
 }
 ul li.active a{
     	background-colour: #fff;
@@ -40,14 +42,16 @@ ul li.active a{
 .main{
     max-width: 1200px;
     margin:auto;
-}
-.title{
+    
+}    
+.titles{
     position: absolute;
-    top: 10%;
-    left: 10%
-        transform: translate(-10%,-10%);
+    top: 50%;
+    left: 50%;
+        transform: translate(-50%,-50%);
 }
-.company hi{
-    colour: white;
-    font-size: 70px;
+.titles h1{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
 }
