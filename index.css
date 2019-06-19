@@ -1,12 +1,12 @@
 body {
-	margin: 1;
-	padding: 1;
-	font-family: Nirmala UI Semilight;
+	margin: 15;
+	padding: 10;
+	font-family: Garamond;
     color: darkslategray;
     font-size: 20px
 }
 header{
-	background-image: url("2.jpg");
+	background-image: url("index.JPG");
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -36,7 +36,7 @@ ul li.active a{
 }
 .logo img{
     float: left;
-    width: 150px;
+    width: 100px;
     height:auto;
 }
 .main{
@@ -55,3 +55,4 @@ ul li.active a{
     color: #fff;
     font-size: 50px;
 }
+
