@@ -3,7 +3,7 @@ body {
 	padding: 10;
 	font-family: Garamond;
     color: darkslategray;
-    font-size: 20px
+    font-size: 20px;
 }
 
 ul{
@@ -33,11 +33,11 @@ ul li.active a{
 .logo2 img{
     float: left;
     width: 100px;
-    height:auto;
+    height: auto;
 }
 .main2{
     max-width: 1200px;
-    margin:auto;
+    margin: auto;
     
 }
 
