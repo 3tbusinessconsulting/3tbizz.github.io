@@ -7,7 +7,7 @@ body {
 }
 
 header{
-	background-image: url("ourservices.JPG");
+	background-image: url("careers.jpg");
 	height: 50vh;
 	background-size: cover;
 	background-position: center;
@@ -31,38 +31,20 @@ ul li a{
 }
 ul li a:hover{
 	background-colour: #fff;
-	color: #fff;
+	color: #000;
 }
 ul li.active a{
     	background-colour: #fff;
-	colour: #fff;    
+	colour: #000;    
 }
-
-.logo3 img{
+.logo4 img{
     float: left;
     width: 100px;
-    height: auto;
+    height:auto;
 }
-.main3{
+.main4{
     max-width: 1200px;
-    margin: auto;
+    margin:auto;
     
-}
+} 
 
-{
-  box-sizing: border-box;
-
-}
-
-.column {
-  float: left;
-  width: 31%;
-  padding: 5px;
-  height: 300px;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
