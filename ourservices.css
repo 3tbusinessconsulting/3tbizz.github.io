@@ -31,11 +31,11 @@ ul li a{
 }
 ul li a:hover{
 	background-colour: #000;
-	color: #000;
+	color: #fff;
 }
 ul li.active a{
     	background-colour: #000;
-	colour: #000;    
+	colour: #fff;    
 }
 
 .logo3 img{
