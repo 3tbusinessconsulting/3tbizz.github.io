@@ -1,8 +1,8 @@
 body {
 	margin: 15;
 	padding: 10;
-	font-family: Garamond;
-    color: darkslategray;
+	font-family: Calibri;
+    color: black;
     font-size: 20px
 }
 
@@ -31,11 +31,11 @@ ul li a{
 }
 ul li a:hover{
 	background-colour: #fff;
-	color: #fff;
+	color: #000;
 }
 ul li.active a{
     	background-colour: #fff;
-	colour: #fff;    
+	colour: #000;    
 }
 
 .logo3 img{
